@@ -1,0 +1,55 @@
+
+.body {
+ 
+  background-color: rgb(1, 38, 44);
+  height: 100vh;
+  
+}.App {
+  text-align: center;
+  background-color: rgb(242, 247, 245);
+  border: #61dafb solid 2px;
+  height: 80vh;
+}
+.check{
+  margin: 20px;
+  
+}
+.bt1 {
+  
+  background-color: rgb(10, 14, 15);
+  margin: 10px;
+  
+}
+input{
+  text-align: center;
+  margin: -10px;
+}
+.source-text{
+  /* width: 50%; */
+  background-color: rgb(10, 14, 15);
+  color: rgb(141, 199, 238);
+  align-items: center;
+  text-align: center;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+.firstAid1{
+  background-color: rgb(24, 57, 63);
+  color: rgb(90, 173, 245);
+  text-align: left;
+  width: 50%;
+}
+
+.firstAid2{
+  background-color: rgb(24, 57, 63);
+  color: aliceblue;
+  text-align: right;
+  width: 50%;
+}
+
+
+.pred{
+  display: flex;
+  
+}
+
