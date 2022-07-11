@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-aidd/static/css/main.945f577a.css",
+    "main.js": "/first-aidd/static/js/main.7975801e.js",
+    "index.html": "/first-aidd/index.html",
+    "main.945f577a.css.map": "/first-aidd/static/css/main.945f577a.css.map",
+    "main.7975801e.js.map": "/first-aidd/static/js/main.7975801e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945f577a.css",
+    "static/js/main.7975801e.js"
+  ]
+}
